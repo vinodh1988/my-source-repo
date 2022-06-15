@@ -7,7 +7,3 @@
 //su
 
 //india
-
-//extra coding
-// nice one
-//stop it right here
